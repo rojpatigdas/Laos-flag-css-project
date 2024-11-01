@@ -27,14 +27,15 @@
   left: 350px;
 }
 
-.flag > p{
-  color: white;
-}
-
 p{
   margin:0px;
   font-size: 5rem;
   text-align: center;
+  color: black;
+}
+
+.flag > p{
+  color: white;
 }
 
     
